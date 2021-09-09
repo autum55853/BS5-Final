@@ -3343,6 +3343,11 @@ textarea.form-control-lg {
     color: #858377;
     pointer-events: none;
     cursor: default; }
+@media (min-width: 375px) {
+    a {
+      font-size: 1rem; } }
+
+
 
 .nav-tabs {
   border-bottom: 1px solid #dee2e6; }
